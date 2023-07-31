@@ -1,3 +1,4 @@
+
 <h1 align="center">Hi 👋, I'm Akshat Shah</h1>
 <h2 align="center">A Full Stack Developer!</h3>
 
@@ -57,17 +58,13 @@
         alt="akshat-shah05"
     />
     </p>
-
-
     <p>
-    &nbsp;<img
+      <img
         align="center"
         src="https://github-readme-stats.vercel.app/api?username=akshat-shah05&show_icons=true&locale=en"
         alt="akshat-shah05"
     />
     </p>
-
-
     <p>
     <img
         align="center"
