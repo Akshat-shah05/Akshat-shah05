@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Akshat Shah</h1>
-<h2 align="center">A Full Stack Developer!</h3>
+<h2 align="center">A Full Stack Developer!</h2>
 
 
 
@@ -74,16 +74,3 @@
 </p>
 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a
-    href="https://linkedin.com/in/https://ca.linkedin.com/in/akshat-shah-6934b11b5"
-    target="blank"
-    ><img
-      align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="https://ca.linkedin.com/in/akshat-shah-6934b11b5"
-      height="30"
-      width="40"
-  /></a>
-</p>
