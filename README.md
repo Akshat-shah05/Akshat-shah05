@@ -3,9 +3,13 @@
 
 <p>
 I am a passionate fullstack developer, and an incoming computer science student at the university of waterloo. While I've been programming for 4 years, I've only been a "serious" programmer for the past two years. When I'm not working on cool projects, you can find playing chess (rated 1600), playing basketball, or at the gym! 
-<br>
+</p>
+
+<p>
 I'm currently working with the MERN stack, while also exploring 3D rendering with WebGL/Three.js and Machine Learning with PyTorch. See the languages, libraries, frameworks and tools I use below!
-<br>
+</p>
+
+<p>
 Feel free to reach out to me at akshatshah1605@gmail.com, my instagram @akshat.shah05, or my linkedin, <a> https://ca.linkedin.com/in/akshat-shah-6934b11b5 </a>
 </p>
 
