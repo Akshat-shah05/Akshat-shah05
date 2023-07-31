@@ -10,7 +10,7 @@ I'm currently working with the MERN stack, while also exploring 3D rendering wit
 </p>
 
 <p>
-Feel free to reach out to me at akshatshah1605@gmail.com, my instagram @akshat.shah05, or my linkedin, <a> https://ca.linkedin.com/in/akshat-shah-6934b11b5 </a>
+Feel free to reach out to me at akshatshah1605@gmail.com, my instagram @akshat.shah05, or my linkedin, <a href="https://ca.linkedin.com/in/akshat-shah-6934b11b5"> https://ca.linkedin.com/in/akshat-shah-6934b11b5 </a>
 </p>
 
 <h3 align="left">Languages</h3>
