@@ -6,7 +6,7 @@ I am a passionate fullstack developer, and an incoming computer science student 
 </p>
 
 <p>
-I'm currently working with the MERN stack, while also exploring 3D rendering with WebGL/Three.js and Machine Learning with PyTorch. See the languages, libraries, frameworks and tools I use below!
+I'm currently working with the PERN stack, while also exploring 3D rendering with WebGL/Three.js and Machine Learning with PyTorch. See the languages, libraries, frameworks and tools I use below!
 </p>
 
 <p>
