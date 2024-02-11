@@ -13,6 +13,15 @@ I'm currently working with the PERN stack, while also exploring 3D rendering wit
 Feel free to reach out to me at akshatshah1605@gmail.com, my instagram @akshat.shah05, or my linkedin, <a href="https://ca.linkedin.com/in/akshat-shah-6934b11b5"> https://ca.linkedin.com/in/akshat-shah-6934b11b5 </a>
 </p>
 
+<h3> Projects I'm working on right now (released soon 👀) </h3>
+<p>
+  - Lispy -> My own Lisp-based language inspired by Racket. Built and compiled with C, written with BBedit!
+  - Prodigy -> A SaaS AI platform for all your AI Generation needs!
+  - Boom -> 2D game and game engine built with C and OpenGL (almost complete)!
+  - Touchless -> My Intro to OpenCV, control your mouse, volume and many other features with only hand gestures!
+  - Personal Site -> Gotta change that UI haha 😅
+</p>
+
 <h3 align="left">Languages</h3>
 <p align="left" class="image">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
@@ -68,11 +77,5 @@ Feel free to reach out to me at akshatshah1605@gmail.com, my instagram @akshat.s
 />
 </p>
 <p>
-<img
-    align="center"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=akshat-shah05&"
-    alt="akshat-shah05"
-/>
-</p>
 
 
