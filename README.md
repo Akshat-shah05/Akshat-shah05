@@ -15,11 +15,11 @@ Feel free to reach out to me at akshatshah1605@gmail.com, my instagram @akshat.s
 
 <h3> Projects I'm working on right now (released soon 👀) </h3>
 <p>
-  - Lispy -> My own Lisp-based language inspired by Racket. Built and compiled with C, written with BBedit!
-  - Prodigy -> A SaaS AI platform for all your AI Generation needs!
-  - Boom -> 2D game and game engine built with C and OpenGL (almost complete)!
-  - Touchless -> My Intro to OpenCV, control your mouse, volume and many other features with only hand gestures!
-  - Personal Site -> Gotta change that UI haha 😅
+  <li>Lispy -> My own Lisp-based language inspired by Racket. Built and compiled with C, written with BBedit!</li>
+  <li>Prodigy -> A SaaS AI platform for all your AI Generation needs!</li>
+  <li>Boom -> 2D game and game engine built with C and OpenGL (almost complete)!</li>
+  <li>Touchless -> My Intro to OpenCV, control your mouse, volume and many other features with only hand gestures!</li>
+  <li>Personal Site -> Gotta change that UI haha 😅</li>
 </p>
 
 <h3 align="left">Languages</h3>
