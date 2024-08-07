@@ -13,15 +13,6 @@ I'm currently working with the PERN stack, while also exploring 3D rendering wit
 Feel free to reach out to me at akshatshah1605@gmail.com, my instagram @akshat.shah05, or my linkedin, <a href="https://ca.linkedin.com/in/akshat-shah-6934b11b5"> https://ca.linkedin.com/in/akshat-shah-6934b11b5 </a>
 </p>
 
-<h3> Projects I'm working on right now (released soon 👀) </h3>
-<p>
-  <li>Lispy -> My own Lisp-based language inspired by Racket. Built and compiled with C, written with BBedit!</li>
-  <li>Prodigy -> A SaaS AI platform for all your AI Generation needs!</li>
-  <li>Personify -> A fullstack AI companion letting you talk to all your favourite celebrities, with customizable characters! </li>
-  <li>Boom -> 2D game and game engine built with C and OpenGL (almost complete)!</li>
-  <li>Touchless -> My Intro to OpenCV, control your mouse, volume and many other features with only hand gestures!</li>
-  <li>Personal Site -> Gotta change that UI haha 😅</li>
-</p>
 
 <h3 align="left">Languages</h3>
 <p align="left" class="image">
